@@ -1,0 +1,4 @@
+1. Get the downloads folder
+2. Get the files from this downloads folder
+3. get the extension of the files and create a folder according to that.
+4. store those folder inside this folder
